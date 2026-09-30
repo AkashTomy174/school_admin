@@ -1,0 +1,6 @@
+{
+  "name": "Peevees Public School Admin Portal",
+  "description": "Executive governance, academic hierarchy, student & faculty records, and analytics cockpit for Peevees Public School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
